@@ -1,8 +1,8 @@
-# React + Vite
+# React Testing Library Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This demo project is created with Vite. For its design, Bootstrap is used. The purpose of this project is to learn front-end testing.
 
-Currently, two official plugins are available:
+Please install the dependencies before running the project with 'npm install'.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project can be run with 'npm run dev' command. The command for testing is 'npm run test'.
+
